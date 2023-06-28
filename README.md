@@ -1,8 +1,7 @@
 # Cmlabs-backend-freelance-test
 For freelance testing purpose
 I am making 2 logic 
-> Fizzbuzz
-> Palindrome Word
+> Fizzbuzz & Palindrome Word
 
 
 ## FizzBuzz
